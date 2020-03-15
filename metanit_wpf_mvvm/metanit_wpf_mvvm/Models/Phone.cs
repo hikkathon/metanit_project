@@ -5,9 +5,9 @@ namespace metanit_wpf_mvvm.Models
 {
     public class Phone : INotifyPropertyChanged
     {
-        private string _title;
-        private string _company;
-        private int _price;
+        private string  _title;
+        private string  _company;
+        private int     _price;
 
         public string Title
         {

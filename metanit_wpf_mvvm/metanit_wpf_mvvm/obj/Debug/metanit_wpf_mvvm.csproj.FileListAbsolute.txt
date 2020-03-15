@@ -12,3 +12,17 @@ C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_m
 C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.exe
 C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.pdb
 C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csprojAssemblyReference.cache
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.exe.config
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.exe
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.pdb
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csprojAssemblyReference.cache
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\Views\MainWindowView.g.cs
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\App.g.cs
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm_MarkupCompile.cache
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm_MarkupCompile.lref
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\Views\MainWindowView.baml
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.g.resources
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.Properties.Resources.resources
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csproj.GenerateResource.cache
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.exe
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.pdb

@@ -27,7 +27,7 @@ namespace metanit_wpf_mvvm.ViewModels
         {
             Phones = new ObservableCollection<Phone>
             {
-                new Phone { Title="iPhone 7", Company="Apple", Price=56000 },
+                new Phone {Title="iPhone 7", Company="Apple", Price=56000 },
                 new Phone {Title="Galaxy S7 Edge", Company="Samsung", Price =60000 },
                 new Phone {Title="Elite x3", Company="HP", Price=56000 },
                 new Phone {Title="Mi5S", Company="Xiaomi", Price=35000 }
