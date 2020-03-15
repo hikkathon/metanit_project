@@ -2,6 +2,7 @@
 using System.Collections.ObjectModel;
 using metanit_wpf_mvvm.Models;
 using System.ComponentModel;
+using metanit_wpf_mvvm.Commands;
 
 namespace metanit_wpf_mvvm.ViewModels
 {
@@ -10,6 +11,66 @@ namespace metanit_wpf_mvvm.ViewModels
         private Phone selectedPhone;
 
         public ObservableCollection<Phone> Phones { get; set; }
+
+        // команда добавления нового объекта
+        private RelayCommand addCommand;
+        public RelayCommand AddCommand
+        {
+            get
+            {
+                return addCommand ??
+                  (addCommand = new RelayCommand(obj =>
+                  {
+                      Phone phone = new Phone();
+                      Phones.Insert(0, phone);
+                      SelectedPhone = phone;
+                  }));
+            }
+        }
+
+        // команда удаления
+        private RelayCommand removeCommand;
+        public RelayCommand RemoveCommand
+        {
+            get
+            {
+                return removeCommand ??
+                  (removeCommand = new RelayCommand(obj =>
+                  {
+                      Phone phone = obj as Phone;
+                      if (phone != null)
+                      {
+                          Phones.Remove(phone);
+                      }
+                  },
+                 (obj) => SelectedPhone != null)); // условие выполнения команды
+            }
+        }
+
+        // команда копирования
+        private RelayCommand doubleCommand;
+        public RelayCommand DoubleCommand
+        {
+            get
+            {
+                return doubleCommand ??
+                    (doubleCommand = new RelayCommand(obj =>
+                    {
+                        Phone phone = obj as Phone;
+                        if (phone != null)
+                        {
+                            Phone phoneCopy = new Phone
+                            {
+                                Company = phone.Company,
+                                Price = phone.Price,
+                                Title = phone.Title
+                            };
+                            Phones.Insert(0, phoneCopy);
+                        }
+                    }));
+            }
+        }
+
         public Phone SelectedPhone
         {
             get

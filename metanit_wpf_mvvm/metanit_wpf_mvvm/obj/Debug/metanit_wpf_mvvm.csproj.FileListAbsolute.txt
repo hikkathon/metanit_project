@@ -26,3 +26,22 @@ D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_pr
 D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csproj.GenerateResource.cache
 D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.exe
 D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.pdb
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csprojAssemblyReference.cache
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\App.g.cs
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm_MarkupCompile.cache
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm_MarkupCompile.lref
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.exe
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.pdb
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.exe.config
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.exe
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.pdb
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\Views\MainWindowView.baml
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.g.resources
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.Properties.Resources.resources
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csproj.GenerateResource.cache
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\MyPC1\Documents\hikkathon\github\metanit_project\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csproj.CopyComplete
