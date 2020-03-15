@@ -1,0 +1,14 @@
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\App.g.cs
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm_MarkupCompile.cache
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm_MarkupCompile.lref
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.exe.config
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.exe
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\bin\Debug\metanit_wpf_mvvm.pdb
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\Views\MainWindowView.baml
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.g.resources
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.Properties.Resources.resources
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csproj.GenerateResource.cache
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.exe
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.pdb
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_wpf_mvvm\obj\Debug\metanit_wpf_mvvm.csprojAssemblyReference.cache

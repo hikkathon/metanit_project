@@ -1,0 +1,9 @@
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\bin\Debug\metanit_async-await.exe.config
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\bin\Debug\metanit_async-await.exe
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\bin\Debug\metanit_async-await.pdb
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\obj\Debug\metanit_async-await.csprojAssemblyReference.cache
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\obj\Debug\metanit_async_await.Form1.resources
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\obj\Debug\metanit_async_await.Properties.Resources.resources
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\obj\Debug\metanit_async-await.csproj.GenerateResource.cache
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\obj\Debug\metanit_async-await.exe
+C:\Users\MyPC0\Desktop\metanit_wpf_mvvm\metanit_async-await\obj\Debug\metanit_async-await.pdb
