@@ -3,6 +3,8 @@ using System.Collections.ObjectModel;
 using metanit_wpf_mvvm.Models;
 using System.ComponentModel;
 using metanit_wpf_mvvm.Commands;
+using System.Linq;
+using System;
 
 namespace metanit_wpf_mvvm.ViewModels
 {
@@ -10,7 +12,63 @@ namespace metanit_wpf_mvvm.ViewModels
     {
         private Phone selectedPhone;
 
+        IFileService fileService;
+        IDialogService dialogService;
+
         public ObservableCollection<Phone> Phones { get; set; }
+
+        // команда сохранения файла
+        private RelayCommand saveCommand;
+        public RelayCommand SaveCommand
+        {
+            get
+            {
+                return saveCommand ??
+                  (saveCommand = new RelayCommand(obj =>
+                  {
+                      try
+                      {
+                          if (dialogService.SaveFileDialog() == true)
+                          {
+                              fileService.Save(dialogService.FilePath, Phones.ToList());
+                              dialogService.ShowMessage("Файл сохранен");
+                          }
+                      }
+                      catch (Exception ex)
+                      {
+                          dialogService.ShowMessage(ex.Message);
+                      }
+                  }));
+            }
+        }
+
+        // команда открытия файла
+        private RelayCommand openCommand;
+        public RelayCommand OpenCommand
+        {
+            get
+            {
+                return openCommand ??
+                  (openCommand = new RelayCommand(obj =>
+                  {
+                      try
+                      {
+                          if (dialogService.OpenFileDialog() == true)
+                          {
+                              var phones = fileService.Open(dialogService.FilePath);
+                              Phones.Clear();
+                              foreach (var p in phones)
+                                  Phones.Add(p);
+                              dialogService.ShowMessage("Файл открыт");
+                          }
+                      }
+                      catch (Exception ex)
+                      {
+                          dialogService.ShowMessage(ex.Message);
+                      }
+                  }));
+            }
+        }
 
         // команда добавления нового объекта
         private RelayCommand addCommand;
@@ -84,8 +142,11 @@ namespace metanit_wpf_mvvm.ViewModels
             }
         }
 
-        public MainWindowViewModel()
+        public MainWindowViewModel(IDialogService dialogService, IFileService fileService)
         {
+            this.dialogService = dialogService;
+            this.fileService = fileService;
+
             Phones = new ObservableCollection<Phone>
             {
                 new Phone {Title="iPhone 7", Company="Apple", Price=56000 },

@@ -1,4 +1,5 @@
-﻿using metanit_wpf_mvvm.ViewModels;
+﻿using metanit_wpf_mvvm.Models;
+using metanit_wpf_mvvm.ViewModels;
 using System.Windows;
 
 namespace Viwes.metanit_wpf_mvvm
@@ -11,7 +12,7 @@ namespace Viwes.metanit_wpf_mvvm
         public MainWindowView()
         {
             InitializeComponent();
-            DataContext = new MainWindowViewModel();
+            DataContext = new MainWindowViewModel(new DefaultDialogService(), new JsonFileService());
         }
     }
 }
